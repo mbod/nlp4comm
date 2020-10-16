@@ -1,5 +1,11 @@
 
-## Vector spaces and word embeddings
+## Vector semantics and word embeddings
+
+
+* __Vector semantics__ is the mathematical theory of word meaning derived from the linguistic theory known as the __distribution hypotheses__ of meaning, which asserts that similarity between concepts (or word meanings) is a function of shared context.
+
+* __Word embeddings__ are the representation of the distribution patterns of words in multidimensional space.
+
 
 
 

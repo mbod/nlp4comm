@@ -7,6 +7,6 @@
 
 ### Index
 
-* [Vector Semantics and Word Embedding](vector_semantics_and_word_embeddings)
+* [Vector Semantics and Word Embeddings](vector_semantics_and_word_embeddings)
 
 
