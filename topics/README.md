@@ -7,6 +7,6 @@
 
 ### Index
 
-* [Vector Spaces and Word Embedding](vector_spaces_and_word_embedding)
+* [Vector Semantics and Word Embedding](vector_semantics_and_word_embeddings)
 
 
