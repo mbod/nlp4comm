@@ -9,4 +9,5 @@
 
 * [Vector Semantics and Word Embeddings](vector_semantics_and_word_embeddings)
 
+* [Measuring Text Similarity](text_similarity)
 
