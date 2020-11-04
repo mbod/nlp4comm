@@ -11,3 +11,6 @@
 
 * [Measuring Text Similarity](text_similarity)
 
+* [Topic Modeling](topic_models)
+  * Including STM
+
